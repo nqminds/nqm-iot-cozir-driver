@@ -1,3 +1,7 @@
-"use strict";
+module.exports = (function() {
+  "use strict";
 
-exports.Driver = require("./lib/COZIRDriver");
+  const Driver = require("./lib/cozir-driver");
+
+  return Driver;
+}());
