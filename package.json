@@ -9,10 +9,14 @@
   "author": "toby.ealden@gmail.com",
   "license": "BSD-2-Clause",
   "dependencies": {
+    "bluebird": "^3.5.0",
+    "nqm-databot-utils": "^0.1.22",
     "serialport": "^4.0.7"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
     "eslint": "^3.10.2",
     "eslint-find-rules": "^1.14.3",
     "eslint-plugin-babel": "^3.2.0",
