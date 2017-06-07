@@ -9,6 +9,6 @@
   "author": "toby.ealden@gmail.com",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "serialport": "~1.7.1"
+    "serialport": "^4.0.7"
   }
 }
